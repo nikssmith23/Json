@@ -1,0 +1,45 @@
+[main] DEBUG com.test2.B  - Second
+[main] INFO  com.test2.B  - New
+[main] DEBUG com.test2.B  - Second
+[main] INFO  com.test2.B  - New
+[main] DEBUG com.test2.B  - Second
+[main] INFO  com.test2.B  - New
+[main] DEBUG com.test2.B  - Second
+[main] INFO  com.test2.B  - New
+[main] TRACE com.test2.B  - Hello
+[main] WARN  com.test2.B  - Warn Message!
+[main] ERROR com.test2.B  - Error Message!
+[main] FATAL com.test2.B  - Fatal Message!
+[main] WARN  com.test2.B  - Warn Message!
+[main] ERROR com.test2.B  - Error Message!
+[main] FATAL com.test2.B  - Fatal Message!
+[main] WARN  com.test2.B  - Warn Message!
+[main] ERROR com.test2.B  - Error Message!
+[main] FATAL com.test2.B  - Fatal Message!
+ - Warn Message!
+ - Error Message!
+ - Fatal Message!
+[main] WARN  com.test2.B  - Warn Message!
+ 2020-03-03 16:07:20,868[main] ERROR com.test2.B  - Error Message!
+ 2020-03-03 16:07:20,869[main] FATAL com.test2.B  - Fatal Message!
+ 2020-03-03 16:07:20,869[main] WARN  com.test2.B  - Warn Message!
+ 2020-03-03 16:07:29,982[main] ERROR com.test2.B  - Error Message!
+ 2020-03-03 16:07:29,984[main] FATAL com.test2.B  - Fatal Message!
+ 2020-03-03 16:07:29,984[main] WARN  com.test2.B  - Warn Message!
+ 2020-03-03 16:32:33,586[main] ERROR com.test2.B  - Error Message!
+ 2020-03-03 16:32:33,588[main] FATAL com.test2.B  - Fatal Message!
+ 2020-03-03 16:32:33,58803-03-20-16-34-2403-03-20-16-34-2403-03-20-16-34-242020-36-03 16:36:052020-36-03 16:36:052020-36-03 16:36:052020-36-03 16:36:41 
+2020-36-03 16:36:41 
+2020-36-03 16:36:41 
+2020-36-03 16:36:45 
+2020-36-03 16:36:45 
+2020-36-03 16:36:45 
+2020-41-03 16:41:18-%i 
+2020-41-03 16:41:18-%i 
+2020-41-03 16:41:18-%i 
+[main] WARN  com.test2.B  - Warn Message!
+[main] ERROR com.test2.B  - Error Message!
+[main] FATAL com.test2.B  - Fatal Message!
+[main] WARN  com.test2.B - Warn Message!
+[main] ERROR com.test2.B - Error Message!
+[main] FATAL com.test2.B - Fatal Message!
