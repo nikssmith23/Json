@@ -16,7 +16,7 @@ public class JsonExWrite {
 			
 		jo.put("First Name", "Nikit");
 		jo.put("Last Name", "Patil");
-		jo.put("Age", "27");
+		jo.put("Age", 27);
 		
 		
 		Map m = new LinkedHashMap(4);

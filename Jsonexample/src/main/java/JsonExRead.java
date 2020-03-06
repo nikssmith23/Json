@@ -25,11 +25,11 @@ public class JsonExRead {
 		System.out.println(lastName);
 
 		// getting age
-		long age = (Long) jo.get("age");
+		Long age = (Long) jo.get("Age");
 		System.out.println(age);
 
 		// getting address
-		Map address = ((Map) jo.get("address"));
+		Map address = ((Map) jo.get("Address"));
 
 		// iterating address Map
 		Iterator<Map.Entry> itr1 = address.entrySet().iterator();
@@ -39,7 +39,7 @@ public class JsonExRead {
 		}
 
 		// getting phoneNumbers
-		JSONArray ja = (JSONArray) jo.get("phoneNumbers");
+		JSONArray ja = (JSONArray) jo.get("PhoneNumbers");
 
 		// iterating phoneNumbers
 		Iterator itr2 = ja.iterator();
@@ -52,5 +52,6 @@ public class JsonExRead {
 			}
 
 		}
+
 	}
 }
