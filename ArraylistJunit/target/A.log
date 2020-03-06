@@ -1,0 +1,15 @@
+[main] INFO  ArrayListName  - Starts Method
+[main] INFO  ArrayListName  - ArrayList<Integer> alfinal Created
+[main] INFO  ArrayListName  - ArrayList<String> al Created
+[main] INFO  ArrayListName  - successfully Created (al)
+[main] INFO  ArrayListName  - HashSet<String> Created (hs)
+[main] INFO  ArrayListName  - HashMap<String, Integer> Created (hm)
+[main] INFO  ArrayListName  - Hashset Cteated
+[main] INFO  ArrayListName  - Hashset Cteated
+[main] INFO  ArrayListName  - Hashset Cteated
+[main] INFO  ArrayListName  - Hashset Cteated
+[main] INFO  ArrayListName  - successfully Created (alFinal)
+[main] INFO  ArrayListName  - successfully Created (alFinal)
+[main] INFO  ArrayListName  - successfully Created (alFinal)
+[main] INFO  ArrayListName  - successfully Created (alFinal)
+[main] WARN  ArrayListName  - Before return statement
